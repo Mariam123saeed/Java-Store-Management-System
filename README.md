@@ -214,7 +214,7 @@ src/Main.java
 From the project directory:
 
 ```bash
-cd ~/Documents/NTI/Technical/java/"Store Management System"
+cd ~/path/"ProjectName"
 ```
 
 Compile the Java source file:
